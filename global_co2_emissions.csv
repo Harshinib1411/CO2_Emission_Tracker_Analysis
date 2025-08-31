@@ -1,0 +1,271 @@
+Country,Year,Sector,CO2_Emissions_Mt
+United States,2015,Energy,218.54
+United States,2015,Transport,477.82
+United States,2015,Industry,379.4
+United States,2016,Energy,319.4
+United States,2016,Transport,120.21
+United States,2016,Industry,120.2
+United States,2017,Energy,76.14
+United States,2017,Transport,439.78
+United States,2017,Industry,320.5
+United States,2018,Energy,368.63
+United States,2018,Transport,59.26
+United States,2018,Industry,486.46
+United States,2019,Energy,424.6
+United States,2019,Transport,145.55
+United States,2019,Industry,131.82
+United States,2020,Energy,132.53
+United States,2020,Transport,186.91
+United States,2020,Industry,286.14
+United States,2021,Energy,244.38
+United States,2021,Transport,181.05
+United States,2021,Industry,325.33
+United States,2022,Energy,112.77
+United States,2022,Transport,181.47
+United States,2022,Industry,214.86
+United States,2023,Energy,255.23
+United States,2023,Transport,403.33
+United States,2023,Industry,139.85
+China,2015,Energy,281.41
+China,2015,Transport,316.59
+China,2015,Industry,70.9
+China,2016,Energy,323.4
+China,2016,Transport,126.74
+China,2016,Industry,79.27
+China,2017,Energy,477.0
+China,2017,Transport,484.53
+China,2017,Industry,413.78
+China,2018,Energy,187.08
+China,2018,Transport,93.95
+China,2018,Industry,357.9
+China,2019,Energy,248.07
+China,2019,Transport,104.92
+China,2019,Industry,272.83
+China,2020,Energy,65.47
+China,2020,Transport,459.19
+China,2020,Industry,166.45
+China,2021,Energy,348.14
+China,2021,Transport,190.27
+China,2021,Industry,284.03
+China,2022,Energy,296.02
+China,2022,Transport,133.18
+China,2022,Industry,486.31
+China,2023,Energy,398.81
+China,2023,Transport,472.77
+China,2023,Industry,452.67
+India,2015,Energy,319.05
+India,2015,Transport,464.84
+India,2015,Industry,89.82
+India,2016,Energy,138.19
+India,2016,Transport,70.35
+India,2016,Industry,196.4
+India,2017,Energy,224.9
+India,2017,Transport,172.11
+India,2017,Industry,422.93
+India,2018,Energy,210.54
+India,2018,Transport,176.42
+India,2018,Industry,294.21
+India,2019,Energy,113.42
+India,2019,Transport,410.99
+India,2019,Industry,83.55
+India,2020,Energy,494.1
+India,2020,Transport,397.51
+India,2020,Industry,139.42
+India,2021,Energy,52.48
+India,2021,Transport,416.96
+India,2021,Industry,368.09
+India,2022,Energy,378.05
+India,2022,Transport,397.07
+India,2022,Industry,83.32
+India,2023,Energy,211.31
+India,2023,Transport,102.14
+India,2023,Industry,438.4
+Germany,2015,Energy,330.48
+Germany,2015,Transport,198.9
+Germany,2015,Industry,78.6
+Germany,2016,Energy,189.94
+Germany,2016,Transport,196.33
+Germany,2016,Industry,378.32
+Germany,2017,Energy,336.9
+Germany,2017,Transport,449.25
+Germany,2017,Industry,262.5
+Germany,2018,Energy,103.82
+Germany,2018,Transport,370.96
+Germany,2018,Industry,392.35
+Germany,2019,Energy,302.57
+Germany,2019,Transport,396.94
+Germany,2019,Industry,272.21
+Germany,2020,Energy,285.23
+Germany,2020,Transport,242.39
+Germany,2020,Industry,61.44
+Germany,2021,Energy,98.55
+Germany,2021,Transport,64.14
+Germany,2021,Industry,336.38
+Germany,2022,Energy,191.46
+Germany,2022,Transport,278.86
+Germany,2022,Industry,458.4
+Germany,2023,Energy,162.18
+Germany,2023,Transport,234.67
+Germany,2023,Industry,390.0
+Brazil,2015,Energy,152.96
+Brazil,2015,Transport,84.64
+Brazil,2015,Industry,180.39
+Brazil,2016,Energy,122.55
+Brazil,2016,Transport,468.36
+Brazil,2016,Industry,413.65
+Brazil,2017,Energy,335.03
+Brazil,2017,Transport,442.16
+Brazil,2017,Industry,411.65
+Brazil,2018,Energy,133.96
+Brazil,2018,Transport,451.65
+Brazil,2018,Industry,292.7
+Brazil,2019,Energy,413.35
+Brazil,2019,Transport,453.24
+Brazil,2019,Industry,193.1
+Brazil,2020,Energy,99.52
+Brazil,2020,Transport,152.57
+Brazil,2020,Industry,242.2
+Brazil,2021,Energy,418.11
+Brazil,2021,Transport,437.33
+Brazil,2021,Industry,53.13
+Brazil,2022,Energy,279.84
+Brazil,2022,Transport,237.83
+Brazil,2022,Industry,149.95
+Brazil,2023,Energy,103.94
+Brazil,2023,Transport,201.93
+Brazil,2023,Industry,474.31
+South Africa,2015,Energy,195.44
+South Africa,2015,Transport,283.46
+South Africa,2015,Industry,366.36
+South Africa,2016,Energy,213.63
+South Africa,2016,Transport,487.3
+South Africa,2016,Industry,483.1
+South Africa,2017,Energy,163.3
+South Africa,2017,Transport,273.76
+South Africa,2017,Industry,185.4
+South Africa,2018,Energy,178.18
+South Africa,2018,Transport,66.6
+South Africa,2018,Industry,324.3
+South Africa,2019,Energy,276.21
+South Africa,2019,Transport,73.17
+South Africa,2019,Industry,175.39
+South Africa,2020,Energy,458.72
+South Africa,2020,Transport,157.8
+South Africa,2020,Industry,115.2
+South Africa,2021,Energy,270.25
+South Africa,2021,Transport,493.54
+South Africa,2021,Industry,158.92
+South Africa,2022,Energy,352.46
+South Africa,2022,Transport,392.73
+South Africa,2022,Industry,156.94
+South Africa,2023,Energy,377.7
+South Africa,2023,Transport,215.5
+South Africa,2023,Industry,334.54
+Australia,2015,Energy,335.09
+Australia,2015,Transport,291.1
+Australia,2015,Industry,90.63
+Australia,2016,Energy,425.89
+Australia,2016,Transport,194.35
+Australia,2016,Industry,133.93
+Australia,2017,Energy,68.35
+Australia,2017,Transport,315.9
+Australia,2017,Industry,354.9
+Australia,2018,Energy,57.46
+Australia,2018,Transport,280.44
+Australia,2018,Industry,151.92
+Australia,2019,Energy,340.33
+Australia,2019,Transport,128.46
+Australia,2019,Industry,360.92
+Australia,2020,Energy,224.03
+Australia,2020,Transport,471.53
+Australia,2020,Industry,111.88
+Australia,2021,Energy,203.48
+Australia,2021,Transport,101.06
+Australia,2021,Industry,466.11
+Australia,2022,Energy,444.8
+Australia,2022,Transport,166.07
+Australia,2022,Industry,346.99
+Australia,2023,Energy,417.75
+Australia,2023,Transport,299.84
+Australia,2023,Industry,288.34
+Canada,2015,Energy,158.83
+Canada,2015,Transport,91.9
+Canada,2015,Industry,453.75
+Canada,2016,Energy,455.19
+Canada,2016,Transport,334.9
+Canada,2016,Industry,202.56
+Canada,2017,Energy,207.14
+Canada,2017,Transport,376.68
+Canada,2017,Industry,453.7
+Canada,2018,Energy,449.19
+Canada,2018,Transport,400.94
+Canada,2018,Industry,338.91
+Canada,2019,Energy,87.86
+Canada,2019,Transport,122.73
+Canada,2019,Industry,454.35
+Canada,2020,Energy,322.89
+Canada,2020,Transport,54.14
+Canada,2020,Industry,95.66
+Canada,2021,Energy,348.58
+Canada,2021,Transport,52.28
+Canada,2021,Industry,122.36
+Canada,2022,Energy,296.93
+Canada,2022,Transport,361.35
+Canada,2022,Industry,343.38
+Canada,2023,Energy,150.92
+Canada,2023,Transport,370.48
+Canada,2023,Industry,156.76
+Japan,2015,Energy,196.43
+Japan,2015,Transport,385.92
+Japan,2015,Industry,342.33
+Japan,2016,Energy,432.15
+Japan,2016,Transport,345.93
+Japan,2016,Industry,305.74
+Japan,2017,Energy,92.15
+Japan,2017,Transport,215.47
+Japan,2017,Industry,169.34
+Japan,2018,Energy,159.8
+Japan,2018,Transport,487.85
+Japan,2018,Industry,226.89
+Japan,2019,Energy,451.42
+Japan,2019,Transport,334.01
+Japan,2019,Industry,407.67
+Japan,2020,Energy,276.19
+Japan,2020,Transport,309.61
+Japan,2020,Industry,271.63
+Japan,2021,Energy,137.86
+Japan,2021,Transport,375.1
+Japan,2021,Industry,176.35
+Japan,2022,Energy,60.94
+Japan,2022,Transport,340.46
+Japan,2022,Industry,129.7
+Japan,2023,Energy,473.21
+Japan,2023,Transport,479.27
+Japan,2023,Industry,461.69
+United Kingdom,2015,Energy,216.57
+United Kingdom,2015,Transport,56.96
+United Kingdom,2015,Industry,467.74
+United Kingdom,2016,Energy,242.68
+United Kingdom,2016,Transport,484.99
+United Kingdom,2016,Industry,483.63
+United Kingdom,2017,Energy,433.85
+United Kingdom,2017,Transport,182.5
+United Kingdom,2017,Industry,223.29
+United Kingdom,2018,Energy,433.01
+United Kingdom,2018,Transport,192.61
+United Kingdom,2018,Industry,126.27
+United Kingdom,2019,Energy,300.56
+United Kingdom,2019,Transport,471.27
+United Kingdom,2019,Industry,363.21
+United Kingdom,2020,Energy,306.53
+United Kingdom,2020,Transport,93.73
+United Kingdom,2020,Industry,326.75
+United Kingdom,2021,Energy,495.52
+United Kingdom,2021,Transport,113.04
+United Kingdom,2021,Industry,283.25
+United Kingdom,2022,Energy,444.82
+United Kingdom,2022,Transport,383.35
+United Kingdom,2022,Industry,363.66
+United Kingdom,2023,Energy,366.12
+United Kingdom,2023,Transport,211.77
+United Kingdom,2023,Industry,182.12

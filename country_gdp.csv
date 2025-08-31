@@ -1,0 +1,91 @@
+Country,Year,GDP_Billion_USD
+United States,2015,16225.35
+United States,2016,16240.25
+United States,2017,17368.03
+United States,2018,18282.16
+United States,2019,10324.58
+United States,2020,10130.02
+United States,2021,16006.24
+United States,2022,13069.29
+United States,2023,14098.94
+China,2015,15956.69
+China,2016,17822.11
+China,2017,6892.3
+China,2018,7636.54
+China,2019,2060.84
+China,2020,11649.95
+China,2021,911.66
+China,2022,9418.84
+China,2023,10944.36
+India,2015,5873.52
+India,2016,11898.5
+India,2017,803.9
+India,2018,939.49
+India,2019,16487.49
+India,2020,7331.77
+India,2021,2715.8
+India,2022,10540.42
+India,2023,15445.87
+Germany,2015,4473.26
+Germany,2016,12533.23
+Germany,2017,1889.88
+Germany,2018,1223.3
+Germany,2019,10720.82
+Germany,2020,10904.58
+Germany,2021,12821.11
+Germany,2022,14576.61
+Germany,2023,19521.87
+Brazil,2015,10422.75
+Brazil,2016,6594.54
+Brazil,2017,15944.69
+Brazil,2018,5562.48
+Brazil,2019,8891.63
+Brazil,2020,1753.44
+Brazil,2021,701.94
+Brazil,2022,19260.44
+Brazil,2023,16752.41
+South Africa,2015,13980.29
+South Africa,2016,8297.27
+South Africa,2017,3631.23
+South Africa,2018,3297.45
+South Africa,2019,5154.81
+South Africa,2020,11074.69
+South Africa,2021,14349.0
+South Africa,2022,13271.91
+South Africa,2023,5742.69
+Australia,2015,19106.33
+Australia,2016,14810.36
+Australia,2017,11176.21
+Australia,2018,12312.07
+Australia,2019,8508.08
+Australia,2020,5105.07
+Australia,2021,7248.26
+Australia,2022,15205.35
+Australia,2023,484.99
+Canada,2015,2498.24
+Canada,2016,1110.85
+Canada,2017,1006.43
+Canada,2018,17138.12
+Canada,2019,14132.43
+Canada,2020,9588.64
+Canada,2021,2137.12
+Canada,2022,9933.99
+Canada,2023,9574.74
+Japan,2015,3629.4
+Japan,2016,8790.26
+Japan,2017,8090.39
+Japan,2018,12393.83
+Japan,2019,12774.85
+Japan,2020,1097.02
+Japan,2021,7617.33
+Japan,2022,12592.03
+Japan,2023,10162.1
+United Kingdom,2015,17158.5
+United Kingdom,2016,13242.13
+United Kingdom,2017,3426.1
+United Kingdom,2018,1597.26
+United Kingdom,2019,12919.9
+United Kingdom,2020,724.92
+United Kingdom,2021,11798.36
+United Kingdom,2022,18816.56
+United Kingdom,2023,11594.39
